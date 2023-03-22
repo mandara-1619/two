@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 some bug fix
+=======
+Some bug fix
+
+>>>>>>> d587965 (Added a new file - bugfix in feature branch)
